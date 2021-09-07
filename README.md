@@ -17,6 +17,18 @@ CPU：10400
 驱动情况：有线网卡及无线网卡、蓝牙、声卡驱动正常。
 cpu识别正常，睡眠及睡眠唤醒正常，usb定制。
 
+
+该配置参考教程包括但不限于：
+
+https://dortania.github.io/OpenCore-Install-Guide/
+
+https://blog.xjn819.com/post/opencore-guide.html
+
+https://github.com/daliansky/OC-little
+
+如使用或转载请注明出处，也请保护开源环境勿作商用贩卖。理论上通用于：msi b560 mortar/mortar wifi。usb需重新定制。
+
+
 <img width="584" alt="Snipaste_2021-09-05_17-11-00" src="https://user-images.githubusercontent.com/12815495/132400143-846127f1-fbb1-4acd-9c80-a1c6d43c491f.png">
 <img width="664" alt="Snipaste_2021-09-06_22-42-42" src="https://user-images.githubusercontent.com/12815495/132400150-62ff84ce-e24f-4316-bc1e-387059bf1498.png">
 <img width="663" alt="Snipaste_2021-09-06_22-46-37" src="https://user-images.githubusercontent.com/12815495/132400151-0a5c80bd-0282-4b01-a58b-6ace758886fc.png">
