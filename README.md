@@ -33,8 +33,6 @@ https://dortania.github.io/OpenCore-Install-Guide/
 
 https://blog.xjn819.com/post/opencore-guide.html
 
-https://github.com/daliansky/OC-little
-
 如使用或转载请注明出处，也请保护开源环境勿作商用贩卖。理论上通用于：msi b560 mortar/mortar wifi。usb需重新定制。
 
 
